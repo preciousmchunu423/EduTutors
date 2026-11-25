@@ -1,0 +1,50 @@
+
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+.history/
+.atom/
+.svn/
+.build/
+.buildlog/
+migrate_working_dir/
+
+# Android build outputs
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Flutter symbolication and obfuscation
+app.*.symbols
+app.*.map.json
+
+# Widget previews
+.widget_preview/
