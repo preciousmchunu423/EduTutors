@@ -2,6 +2,10 @@
 
 EduTutors is a mobile-first educational tutoring platform built with Flutter and Supabase. It aims to connect learners, parents and tutors through an accessible learning environment.
 
+## Live Demo
+
+[Click here to open EduTutors](https://6b07120d5cf65cddc9ff7414--edututors-3oi4.netlify.app)
+
 ## Project Overview
 
 The application is developed using Flutter and Dart, following an MVVM-inspired architecture.
